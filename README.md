@@ -34,6 +34,9 @@ Seejärel avada uuesti terminal, veenduda, et virtuaalkeskkond on aktiivne (kasu
 seejärel liikuda enda kausta, kus on DHT koodid ning käivitada need läbi terminali alljärgneva käsuga.## <br />
 
 ~ $ python3 sinukoodinimi.py <br />
+#####ADC-mooduli ühendamine Raspberryga#####<br />
+~ $ sudo pip3 install adafruit-circuitpython-ads1x15<br />
+
 
 
 
