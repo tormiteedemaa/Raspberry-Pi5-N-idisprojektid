@@ -33,8 +33,9 @@ Seejärel saab Thonnys programmeerida ülaltoodud esimese lingi abil kood. <br /
 Seejärel avada uuesti terminal, veenduda, et virtuaalkeskkond on aktiivne (kasutajanime ees peab sulgudes olema „(env)“)  <br />
 seejärel liikuda enda kausta, kus on DHT koodid ning käivitada need läbi terminali alljärgneva käsuga.## <br />
 
-~ $ python3 sinukoodinimi.py <br />
+~ $ python3 sinukoodinimi.py <br /><br /><br /><br />
 #####ADC-mooduli ühendamine Raspberryga#####<br />
+Samuti peab olema virtuaalkeskkonnas nagu ka DHT11 anduriga
 ~ $ sudo pip3 install adafruit-circuitpython-ads1x15<br />
 
 
